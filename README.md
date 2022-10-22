@@ -1,0 +1,2 @@
+# O que é?
+Módulo que controla 50% do total de luzes da piscina. Apesar de ser um único módulo, fisicamente, existem dois ESP32 que controlam todas as lâmpadas da piscina. Este é o código de um dos ESP32.
